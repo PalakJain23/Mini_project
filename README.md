@@ -1,34 +1,6 @@
 # Mini_project
 Mini project front_end development
 
-<!-- <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mini project</title>
-    <link rel="stylesheet" href="miniproject.css77" />
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Manufacturing+Consent&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" 
-    rel="stylesheet">
-    <link rel="stylesheet" 
-    href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=home" />
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=check_circle" />
-
-</head>
-<body>
-    <h1>Apna college </h1>
-    <span class="material-symbols-outlined">
-    
-home
-</span>
-<span class="material-symbols-outlined">
-check_circle
-</span>
-</body>
-</html> -->
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
