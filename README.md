@@ -1,6 +1,78 @@
 # Mini_project
 Mini project front_end development
 
+# Sidebar Menu Project
+
+This is a responsive sidebar navigation menu built using **HTML** and **CSS**. It includes a slide-in sidebar with a toggle (hamburger) button, close button, logo section, menu items, and social media icons.
+
+---
+
+## 📸 Preview
+
+![screenshot](photo.jpg)
+
+---
+
+## 🛠️ Features
+
+- Full-screen background with image
+- Sliding sidebar using CSS only (checkbox trick)
+- Logo and navigation menu
+- Social media icons with hover effects
+- Smooth transition animations
+- Responsive layout
+
+---
+
+## 📂 File Structure
+
+project-folder/
+│
+├── index.html # Main HTML file
+├── style.css # CSS file for styling
+├── photo.jpg # Background image
+└── README.md # Project documentation
+
+## 💡 How It Works
+
+- A hidden `<input type="checkbox" id="check">` is used to control the sidebar visibility.
+- The `.btn_one` (hamburger icon) is linked to the checkbox.
+- When checked, the sidebar (`.sidebar_menu`) slides in using CSS transition.
+- `.btn_two` is used to close the sidebar by unchecking the checkbox.
+- The layout is fully handled using **pure HTML & CSS**, without JavaScript.
+
+---
+
+## 🧪 How to Use
+
+1. Clone or download the project.
+2. Place an image named `photo.jpg` in the same folder as `index.html`.
+3. Open `index.html` in a browser.
+
+---
+
+## 🖌️ Customization Tips
+
+- Change background image in `.main_box` (CSS).
+- Modify sidebar color by editing `.sidebar_menu`.
+- Add/remove menu items as needed inside the `<ul class="menu">`.
+- Replace Font Awesome icons or text to suit your project.
+
+---
+
+## 🧾 License
+
+This project is open-source and free to use for educational and personal projects.
+
+---
+
+## 🙋‍♀️ Author
+
+**Palak Jain**  
+Second-year AI student  
+🧠 Passionate about web development and machine learning
+
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
