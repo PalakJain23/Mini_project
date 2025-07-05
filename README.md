@@ -9,7 +9,7 @@ This is a responsive sidebar navigation menu built using **HTML** and **CSS**. I
 
 ## 📸 Preview
 
-![screenshot](photo.jpg)
+![screenshot](menu.jpg)
 
 ---
 
